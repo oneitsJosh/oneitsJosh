@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 677,
-    "timeDay": 677,
-    "timeWeek": 677,
-    "timeMonth": 677,
-    "timeYear": 677,
+    "time": 725,
+    "timeDay": 725,
+    "timeWeek": 725,
+    "timeMonth": 725,
+    "timeYear": 725,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 647,
-    "timeDay": 647,
-    "timeWeek": 647,
-    "timeMonth": 647,
-    "timeYear": 647,
+    "time": 753,
+    "timeDay": 753,
+    "timeWeek": 753,
+    "timeMonth": 753,
+    "timeYear": 753,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1799,
-    "timeDay": 1799,
-    "timeWeek": 1799,
-    "timeMonth": 1799,
-    "timeYear": 1799,
+    "time": 3683,
+    "timeDay": 3683,
+    "timeWeek": 3683,
+    "timeMonth": 3683,
+    "timeYear": 3683,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Failed Test",
+    "url": "https://iloveyourmama.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/iloveyourmama.com.ico",
+    "slug": "failed-test",
+    "status": "down",
+    "uptime": "16.14%",
+    "uptimeDay": "16.14%",
+    "uptimeWeek": "16.14%",
+    "uptimeMonth": "16.14%",
+    "uptimeYear": "16.14%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-03-13": 0
+    }
   }
 ]
