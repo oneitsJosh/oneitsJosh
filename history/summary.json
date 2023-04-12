@@ -4,9 +4,9 @@
     "url": "https://oneit.support",
     "icon": "https://icons.duckduckgo.com/ip3/oneit.support.ico",
     "slug": "one-it-support-ticket-system",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 726,
     "timeMonth": 726,
     "timeYear": 726,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-12": 0
+    }
   },
   {
     "name": "KPS Ticket System",
     "url": "https://kpshelpdesk.oneit.support",
     "icon": "https://icons.duckduckgo.com/ip3/kpshelpdesk.oneit.support.ico",
     "slug": "kps-ticket-system",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 676,
     "timeMonth": 688,
     "timeYear": 688,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-12": 0
+    }
   },
   {
     "name": "Bowson",
