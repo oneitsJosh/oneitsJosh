@@ -40,7 +40,7 @@
     "url": "https://www.bowsonproperty.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.bowsonproperty.co.uk.ico",
     "slug": "bowson",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.21%",
@@ -52,6 +52,7 @@
     "timeMonth": 2016,
     "timeYear": 1954,
     "dailyMinutesDown": {
+      "2023-06-08": 0,
       "2023-06-03": 62,
       "2023-06-02": 18,
       "2023-04-27": 256,
