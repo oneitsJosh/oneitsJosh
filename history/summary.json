@@ -11,9 +11,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 807,
-    "timeDay": 559,
-    "timeWeek": 693,
-    "timeMonth": 691,
+    "timeDay": 790,
+    "timeWeek": 684,
+    "timeMonth": 692,
     "timeYear": 807,
     "dailyMinutesDown": {
       "2024-02-26": 34,
@@ -32,9 +32,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 812,
-    "timeDay": 710,
-    "timeWeek": 673,
-    "timeMonth": 630,
+    "timeDay": 936,
+    "timeWeek": 692,
+    "timeMonth": 634,
     "timeYear": 812,
     "dailyMinutesDown": {
       "2024-02-26": 34
@@ -52,9 +52,9 @@
     "uptimeMonth": "98.60%",
     "uptimeYear": "99.52%",
     "time": 2179,
-    "timeDay": 2413,
-    "timeWeek": 2320,
-    "timeMonth": 3407,
+    "timeDay": 2320,
+    "timeWeek": 2292,
+    "timeMonth": 3413,
     "timeYear": 2179,
     "dailyMinutesDown": {
       "2024-03-07": 381,
@@ -101,9 +101,7 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-03-13": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Failed Test 2",
@@ -121,8 +119,6 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-03-13": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
