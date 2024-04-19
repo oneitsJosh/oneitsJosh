@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 803,
-    "timeDay": 880,
-    "timeWeek": 715,
-    "timeMonth": 777,
+    "timeDay": 659,
+    "timeWeek": 724,
+    "timeMonth": 772,
     "timeYear": 812,
     "dailyMinutesDown": {
       "2024-03-17": 60,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 811,
-    "timeDay": 764,
-    "timeWeek": 804,
-    "timeMonth": 792,
+    "timeDay": 674,
+    "timeWeek": 778,
+    "timeMonth": 775,
     "timeYear": 824,
     "dailyMinutesDown": {
       "2024-02-26": 34
@@ -48,17 +48,16 @@
     "slug": "bowson",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "95.48%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "95.52%",
     "uptimeYear": "99.14%",
-    "time": 2231,
-    "timeDay": 2143,
-    "timeWeek": 2134,
-    "timeMonth": 2718,
-    "timeYear": 2258,
+    "time": 2238,
+    "timeDay": 3819,
+    "timeWeek": 2520,
+    "timeMonth": 2787,
+    "timeYear": 2268,
     "dailyMinutesDown": {
-      "2024-04-18": 14,
       "2024-04-16": 21,
       "2024-04-06": 984,
       "2024-04-05": 612,
@@ -91,8 +90,7 @@
       "2023-06-08": 18,
       "2023-06-03": 62,
       "2023-06-02": 18,
-      "2023-04-27": 256,
-      "2023-04-20": 27
+      "2023-04-27": 256
     }
   },
   {
