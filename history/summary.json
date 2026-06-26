@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1358,
-    "timeDay": 4479,
+    "time": 1359,
+    "timeDay": 0,
     "timeWeek": 1338,
-    "timeMonth": 1751,
-    "timeYear": 1536,
+    "timeMonth": 1779,
+    "timeYear": 1535,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1274,
-    "timeDay": 904,
-    "timeWeek": 1551,
-    "timeMonth": 1873,
-    "timeYear": 1442,
+    "timeDay": 721,
+    "timeWeek": 1447,
+    "timeMonth": 1862,
+    "timeYear": 1440,
     "dailyMinutesDown": {}
   },
   {
@@ -40,16 +40,16 @@
     "url": "https://www.bowsonproperty.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.bowsonproperty.co.uk.ico",
     "slug": "bowson",
-    "status": "down",
+    "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.62%",
     "time": 656,
-    "timeDay": 246,
-    "timeWeek": 570,
-    "timeMonth": 321,
+    "timeDay": 378,
+    "timeWeek": 559,
+    "timeMonth": 330,
     "timeYear": 532,
     "dailyMinutesDown": {
       "2025-06-30": 23,
@@ -86,7 +86,8 @@
       "2026-05-14": 15,
       "2026-06-04": 24,
       "2026-06-03": 37,
-      "2026-06-25": 1
+      "2026-06-26": 3,
+      "2026-06-25": 20
     }
   },
   {
