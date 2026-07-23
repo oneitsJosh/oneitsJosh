@@ -95,10 +95,10 @@
     "url": "https://iloveyourmama.com/",
     "icon": "https://icons.duckduckgo.com/ip3/iloveyourmama.com.ico",
     "slug": "failed-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 492,
@@ -106,7 +106,9 @@
     "timeWeek": 492,
     "timeMonth": 492,
     "timeYear": 492,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-23": 1
+    }
   },
   {
     "name": "Failed Test 2",
